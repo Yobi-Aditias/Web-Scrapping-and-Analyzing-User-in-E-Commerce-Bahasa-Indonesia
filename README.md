@@ -16,4 +16,4 @@ This repository is created to guide you through exploring and understanding the 
 
 - **Data_Scraping.csv**: This file contains the results of the web scraping process, encompassing information related to Seblak business and online selling gathered from predefined sources.
 
-- **scrapping_e-commerce.ipynb**: This notebook file is an implementation of web scraping and data analysis in Jupyter Notebook format (IPython). Utilizing Python, this notebook includes steps for data collection (web scraping) and analysis of the generated dataset.
+- **scrapping_e-commerce.ipynb**: This notebook file is an implementation of web scraping and data analysis in Jupyter Notebook format (IPython). Utilizing Python, this notebook includes steps for data collection (web scraping), analysis of the generated dataset, and data visualization.
