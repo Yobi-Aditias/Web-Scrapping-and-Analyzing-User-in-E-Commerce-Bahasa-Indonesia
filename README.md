@@ -1,4 +1,4 @@
- # Web Scrapping and Analyzing User in E-Commerce on Seblak Dishes (Bahasa Indonesia)
+ # Web Scrapping and Analyzing User in E-Commerce on Seblak Dishes (This analysis project is conducted using the Indonesian language)
 
 Online business has emerged as one of the rapidly growing sectors in the economy. Meanwhile, Seblak, a traditional Indonesian dish, is immensely popular among the community, especially the tech-savvy younger generation. Both the Seblak business and online selling showcase intriguing aspects worth studying. They reflect shifts in consumer patterns, the transition from traditional markets to online platforms, and unique dynamics within the market.
 
